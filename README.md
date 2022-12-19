@@ -4,20 +4,20 @@
             1. cd frontend
             2. cd stonepaperscissor
             3. npm start
-       ### The server will run on localhost:3000
+       <b>The server will run on localhost:3000</b>
        
        
 ## Computer :
             1.Open new terminal 
             2. cd computer
             3. node index.js
-       #### The server will run on localhost 4001
+       <b> The server will run on localhost 4001</b>
  
  ## User :
             1.Open new terminal 
             2. cd user
             3. node index.js
-       ### The server will run on localhost 4000
+      <b> The server will run on localhost 4000 </b>
        
        
  Open browser and type http://localhost:3000/
