@@ -7,15 +7,15 @@
     The server will run on localhost:3000
        
        
-## Computer :
+## Computer(user2) :
             1.Open new terminal 
-            2. cd computer
+            2. cd user2
             3. node index.js
     The server will run on localhost 4001
  
- ## User :
+ ## User1 :
             1.Open new terminal 
-            2. cd user
+            2. cd user1
             3. node index.js
     The server will run on localhost 4000 
        
