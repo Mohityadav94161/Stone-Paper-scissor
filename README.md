@@ -25,3 +25,7 @@
  Try your Luck!!
  Happy Gaming !!!
        
+# Test cases
+        file contains postman workspace with test cases init. See documentation for details
+        
+# StonePaperScissor Documentation  pdf contains documentation of the project
